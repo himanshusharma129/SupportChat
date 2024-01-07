@@ -1,0 +1,16 @@
+/* SearchBar.css */
+.search-bar {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+  }
+  
